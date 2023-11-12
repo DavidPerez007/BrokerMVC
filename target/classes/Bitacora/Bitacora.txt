@@ -1,0 +1,839 @@
+Votaciones inicio sin productos 27-10-23 15:39:45
+Votaciones inicio sin productos 27-10-23 15:59:11
+Votaciones Se creo y se puso visible la ventana de asignacion 27-10-23 15:59:45
+Asignar_productos Inicio con una lista que referenciar - correcto 27-10-23 15:59:45
+Votaciones Se habilito el boton refrescar 27-10-23 15:59:45
+Asignar_productos Se abre buscador de archivo 27-10-23 15:59:47
+Asignar_productos Se selecciono un archivo 27-10-23 16:00:19
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 27-10-23 16:00:19
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 27-10-23 16:00:19
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 27-10-23 16:00:19
+Asignar_productos Se habilita el boton confirmar 27-10-23 16:00:19
+Controlador.Manejador_productos crea un nuevo producto 27-10-23 16:00:23
+Controlador.Manejador_productos crea un nuevo producto 27-10-23 16:00:23
+Controlador.Manejador_productos crea un nuevo producto 27-10-23 16:00:23
+Asignar_productos Se obtiene los nombres y direcciones de almacenamiento de los productos 27-10-23 16:00:24
+Controlador.Manejador_asignar Se Asigna el nuevo historial que se utilizara 27-10-23 16:00:24
+Votaciones Se puso visible la ventana de asignacion 27-10-23 16:00:27
+Votaciones Se habilito el boton refrescar 27-10-23 16:00:27
+Asignar_productos Se abre buscador de archivo 27-10-23 16:02:50
+Asignar_productos Falla buscador de archivo 27-10-23 16:03:17
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 27-10-23 16:03:17
+Asignar_productos Se habilita el boton confirmar 27-10-23 16:03:17
+Asignar_productos Se abre buscador de archivo 27-10-23 16:03:22
+Asignar_productos Se selecciono un archivo 27-10-23 16:03:45
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 27-10-23 16:03:45
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 27-10-23 16:03:45
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 27-10-23 16:03:45
+Asignar_productos Se habilita el boton confirmar 27-10-23 16:03:45
+Asignar_productos Se abre buscador de carpeta 27-10-23 16:03:48
+Asignar_productos Se sleecciono una carpeta 27-10-23 16:04:00
+Controlador.Manejador_asignar Se obtiene el directorio de la carpeta 27-10-23 16:04:00
+Controlador.Manejador_asignar Se asigna sus directorios 27-10-23 16:04:00
+Asignar_productos Se asigno el directorio de su archivo txt de cada producto 27-10-23 16:04:00
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 27-10-23 16:04:00
+Asignar_productos Se habilita el boton confirmar 27-10-23 16:04:00
+Controlador.Manejador_productos crea un nuevo producto 27-10-23 16:04:03
+Controlador.Manejador_productos crea un nuevo producto 27-10-23 16:04:03
+Controlador.Manejador_productos crea un nuevo producto 27-10-23 16:04:03
+Asignar_productos Se obtiene los nombres y direcciones de almacenamiento de los productos 27-10-23 16:04:03
+Controlador.Manejador_asignar Se Asigna el nuevo historial que se utilizara 27-10-23 16:04:03
+Votaciones Se obtienen los nuevos productos 27-10-23 16:04:08
+Asignar_productos Se devuelve el listado de productos nuevo 27-10-23 16:04:08
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 27-10-23 16:04:08
+Votaciones Modelado de nombres y cantidad de votos 27-10-23 16:04:08
+Controlador.Manejador_productos Se accede al producto_1 27-10-23 16:04:08
+Controlador.Manejador_productos Se accede al producto_2 27-10-23 16:04:08
+Controlador.Manejador_productos Se accede al producto_3 27-10-23 16:04:08
+Controlador.Manejador_productos Se accede al producto_1 27-10-23 16:04:08
+Controlador.Manejador_productos Se accede al producto_2 27-10-23 16:04:08
+Controlador.Manejador_productos Se accede al producto_3 27-10-23 16:04:08
+Controlador.Manejador_productos Se accede al producto_1 27-10-23 16:04:10
+Votaciones Se preciono voto a producto C:\Users\usuario\Desktop\registros\Aguas.txt 27-10-23 16:04:10
+Controlador.Manejador_productos Se accede al producto_1 27-10-23 16:04:10
+Controlador.Manejador_productos Se accede al producto_1 27-10-23 16:04:10
+Barras Se inicio con productos a modelar 27-10-23 16:04:10
+Pastel Se inicio con productos a modelar 27-10-23 16:04:10
+Controlador.Manejador_productos Se accede al producto_2 27-10-23 16:04:11
+Votaciones Se preciono voto a producto C:\Users\usuario\Desktop\registros\Horchata.txt 27-10-23 16:04:11
+Controlador.Manejador_productos Se accede al producto_2 27-10-23 16:04:11
+Controlador.Manejador_productos Se accede al producto_2 27-10-23 16:04:11
+Barras Se inicio con productos a modelar 27-10-23 16:04:11
+Pastel Se inicio con productos a modelar 27-10-23 16:04:11
+Controlador.Manejador_productos Se accede al producto_3 27-10-23 16:04:12
+Votaciones Se preciono voto a producto C:\Users\usuario\Desktop\registros\Jamaica.txt 27-10-23 16:04:12
+Controlador.Manejador_productos Se accede al producto_3 27-10-23 16:04:12
+Controlador.Manejador_productos Se accede al producto_3 27-10-23 16:04:12
+Barras Se inicio con productos a modelar 27-10-23 16:04:12
+Pastel Se inicio con productos a modelar 27-10-23 16:04:12
+Votaciones inicio sin productos 27-10-23 16:09:28
+Votaciones inicio sin productos 11-11-23 18:27:13
+Votaciones Se creo y se puso visible la ventana de asignacion 11-11-23 18:27:16
+Asignar_productos Inicio con una lista que referenciar - correcto 11-11-23 18:27:16
+Votaciones Se habilito el boton refrescar 11-11-23 18:27:16
+Asignar_productos Se abre buscador de archivo 11-11-23 18:27:19
+Asignar_productos Se selecciono un archivo 11-11-23 18:28:57
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 11-11-23 18:28:57
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 11-11-23 18:28:57
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 18:28:57
+Asignar_productos Se habilita el boton confirmar 11-11-23 18:28:57
+Asignar_productos Se abre buscador de archivo 11-11-23 18:29:03
+Asignar_productos Falla buscador de archivo 11-11-23 18:29:06
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 18:29:06
+Asignar_productos Se habilita el boton confirmar 11-11-23 18:29:06
+Votaciones inicio sin productos 11-11-23 18:52:54
+Votaciones inicio sin productos 11-11-23 18:53:08
+Votaciones Se creo y se puso visible la ventana de asignacion 11-11-23 18:53:10
+Asignar_productos Inicio con una lista que referenciar - correcto 11-11-23 18:53:10
+Votaciones Se habilito el boton refrescar 11-11-23 18:53:10
+Asignar_productos Se abre buscador de archivo 11-11-23 18:53:15
+Asignar_productos Se selecciono un archivo 11-11-23 18:54:54
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 11-11-23 18:54:54
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 11-11-23 18:54:54
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 18:54:54
+Asignar_productos Se habilita el boton confirmar 11-11-23 18:54:54
+Asignar_productos Se abre buscador de archivo 11-11-23 18:56:01
+Asignar_productos Se selecciono un archivo 11-11-23 18:56:34
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 11-11-23 18:56:34
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 11-11-23 18:56:34
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 18:56:34
+Asignar_productos Se habilita el boton confirmar 11-11-23 18:56:34
+Asignar_productos Se abre buscador de archivo 11-11-23 18:56:48
+Asignar_productos Se selecciono un archivo 11-11-23 18:56:58
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 11-11-23 18:56:58
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 11-11-23 18:56:58
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 18:56:58
+Asignar_productos Se habilita el boton confirmar 11-11-23 18:56:58
+Asignar_productos Se abre buscador de carpeta 11-11-23 18:57:04
+Asignar_productos Falla en la busqueda de carpeta 11-11-23 18:57:08
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 18:57:08
+Asignar_productos Se habilita el boton confirmar 11-11-23 18:57:08
+Asignar_productos Se abre buscador de carpeta 11-11-23 18:57:10
+Asignar_productos Se sleecciono una carpeta 11-11-23 18:57:16
+Controlador.Manejador_asignar Se obtiene el directorio de la carpeta 11-11-23 18:57:16
+Controlador.Manejador_asignar Se asigna sus directorios 11-11-23 18:57:16
+Asignar_productos Se asigno el directorio de su archivo txt de cada producto 11-11-23 18:57:16
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 18:57:16
+Asignar_productos Se habilita el boton confirmar 11-11-23 18:57:16
+Asignar_productos Se abre buscador de carpeta 11-11-23 18:57:19
+Asignar_productos Falla en la busqueda de carpeta 11-11-23 18:59:32
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 18:59:32
+Asignar_productos Se habilita el boton confirmar 11-11-23 18:59:32
+Asignar_productos Se abre buscador de carpeta 11-11-23 19:00:19
+Asignar_productos Se sleecciono una carpeta 11-11-23 19:00:39
+Controlador.Manejador_asignar Se obtiene el directorio de la carpeta 11-11-23 19:00:39
+Controlador.Manejador_asignar Se asigna sus directorios 11-11-23 19:00:39
+Asignar_productos Se asigno el directorio de su archivo txt de cada producto 11-11-23 19:00:39
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 19:00:39
+Asignar_productos Se habilita el boton confirmar 11-11-23 19:00:39
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:00:41
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:00:41
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:00:41
+Asignar_productos Se obtiene los nombres y direcciones de almacenamiento de los productos 11-11-23 19:00:41
+Controlador.Manejador_asignar Se Asigna el nuevo historial que se utilizara 11-11-23 19:00:41
+Votaciones Se obtienen los nuevos productos 11-11-23 19:00:45
+Asignar_productos Se devuelve el listado de productos nuevo 11-11-23 19:00:45
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 11-11-23 19:00:45
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:00:45
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:00:45
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:00:45
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:00:45
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:00:45
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:00:45
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:00:45
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:00:50
+Votaciones Se preciono voto a producto C:\Users\alanx\Desktop\Horchata.txt 11-11-23 19:00:50
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:00:50
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:00:50
+Barras Se inicio con productos a modelar 11-11-23 19:00:50
+Pastel Se inicio con productos a modelar 11-11-23 19:00:50
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:00:51
+Votaciones Se preciono voto a producto C:\Users\alanx\Desktop\Aguas.txt 11-11-23 19:00:51
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:00:51
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:00:51
+Barras Se inicio con productos a modelar 11-11-23 19:00:51
+Pastel Se inicio con productos a modelar 11-11-23 19:00:51
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:00:52
+Votaciones Se preciono voto a producto C:\Users\alanx\Desktop\Jamaica.txt 11-11-23 19:00:52
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:00:52
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:00:52
+Barras Se inicio con productos a modelar 11-11-23 19:00:52
+Pastel Se inicio con productos a modelar 11-11-23 19:00:52
+Votaciones Ambas graficas se pusieron visibles 11-11-23 19:00:53
+Barras Se grafican los datos 11-11-23 19:00:53
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:00:53
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:00:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:00:53
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:00:53
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:00:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:00:53
+Pastel Se suspende y deja de ser visible 11-11-23 19:00:56
+Barras Se actualizo 11-11-23 19:00:57
+Barras Se grafican los datos 11-11-23 19:00:57
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:00:57
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:00:57
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:00:57
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:00:57
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:00:57
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:00:57
+Barras Se suspende y deja de ser visible 11-11-23 19:00:58
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:01:00
+Votaciones Se preciono voto a producto C:\Users\alanx\Desktop\Jamaica.txt 11-11-23 19:01:00
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:01:00
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:01:00
+Barras Se inicio con productos a modelar 11-11-23 19:01:00
+Pastel Se inicio con productos a modelar 11-11-23 19:01:00
+Votaciones Se obtienen los nuevos productos 11-11-23 19:01:01
+Asignar_productos Se devuelve el listado de productos nuevo 11-11-23 19:01:01
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 11-11-23 19:01:01
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:01:01
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:01:01
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:01:01
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:01:01
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:01:01
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:01:01
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:01:01
+Votaciones Se obtienen los nuevos productos 11-11-23 19:01:02
+Asignar_productos Se devuelve el listado de productos nuevo 11-11-23 19:01:02
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 11-11-23 19:01:02
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:01:02
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:01:02
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:01:02
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:01:02
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:01:02
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:01:02
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:01:02
+Votaciones Se puso visible la ventana de asignacion 11-11-23 19:01:04
+Votaciones Se habilito el boton refrescar 11-11-23 19:01:04
+Votaciones inicio sin productos 11-11-23 19:01:47
+Votaciones Se creo y se puso visible la ventana de asignacion 11-11-23 19:01:50
+Asignar_productos Inicio con una lista que referenciar - correcto 11-11-23 19:01:50
+Votaciones Se habilito el boton refrescar 11-11-23 19:01:50
+Asignar_productos Se abre buscador de archivo 11-11-23 19:01:53
+Asignar_productos Se selecciono un archivo 11-11-23 19:03:05
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 11-11-23 19:03:05
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 11-11-23 19:03:05
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 19:03:05
+Asignar_productos Se habilita el boton confirmar 11-11-23 19:03:05
+Asignar_productos Se abre buscador de carpeta 11-11-23 19:03:06
+Asignar_productos Se sleecciono una carpeta 11-11-23 19:03:11
+Controlador.Manejador_asignar Se obtiene el directorio de la carpeta 11-11-23 19:03:11
+Controlador.Manejador_asignar Se asigna sus directorios 11-11-23 19:03:11
+Asignar_productos Se asigno el directorio de su archivo txt de cada producto 11-11-23 19:03:11
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 19:03:11
+Asignar_productos Se habilita el boton confirmar 11-11-23 19:03:11
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:03:19
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:03:19
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:03:19
+Asignar_productos Se obtiene los nombres y direcciones de almacenamiento de los productos 11-11-23 19:03:19
+Controlador.Manejador_asignar Se Asigna el nuevo historial que se utilizara 11-11-23 19:03:19
+Votaciones Se obtienen los nuevos productos 11-11-23 19:03:23
+Asignar_productos Se devuelve el listado de productos nuevo 11-11-23 19:03:23
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 11-11-23 19:03:23
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:03:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:03:23
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:23
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:03:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:03:23
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:23
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:03:23
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:25
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:03:25
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:25
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:25
+Barras Se inicio con productos a modelar 11-11-23 19:03:25
+Pastel Se inicio con productos a modelar 11-11-23 19:03:25
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:03:27
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:03:27
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:03:27
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:03:27
+Barras Se inicio con productos a modelar 11-11-23 19:03:27
+Pastel Se inicio con productos a modelar 11-11-23 19:03:27
+Votaciones Se obtienen los nuevos productos 11-11-23 19:03:28
+Asignar_productos Se devuelve el listado de productos nuevo 11-11-23 19:03:28
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 11-11-23 19:03:28
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:03:28
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:03:28
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:28
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:03:28
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:03:28
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:28
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:03:28
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:03:30
+Votaciones Se preciono voto a producto Horchata 11-11-23 19:03:30
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:03:30
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:03:30
+Barras Se inicio con productos a modelar 11-11-23 19:03:30
+Pastel Se inicio con productos a modelar 11-11-23 19:03:30
+Votaciones Se obtienen los nuevos productos 11-11-23 19:03:56
+Asignar_productos Se devuelve el listado de productos nuevo 11-11-23 19:03:56
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 11-11-23 19:03:56
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:03:56
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:03:56
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:56
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:03:56
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:03:56
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:56
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:03:56
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:58
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:03:58
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:58
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:03:58
+Barras Se inicio con productos a modelar 11-11-23 19:03:58
+Pastel Se inicio con productos a modelar 11-11-23 19:03:58
+Votaciones Ambas graficas se pusieron visibles 11-11-23 19:04:01
+Barras Se grafican los datos 11-11-23 19:04:01
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:04:01
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:04:01
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:04:01
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:04:01
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:04:01
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:04:01
+Pastel Se suspende y deja de ser visible 11-11-23 19:04:02
+Barras Se suspende y deja de ser visible 11-11-23 19:04:03
+Votaciones inicio sin productos 11-11-23 19:04:59
+Votaciones Se creo y se puso visible la ventana de asignacion 11-11-23 19:05:01
+Asignar_productos Inicio con una lista que referenciar - correcto 11-11-23 19:05:01
+Votaciones Se habilito el boton refrescar 11-11-23 19:05:01
+Asignar_productos Se abre buscador de archivo 11-11-23 19:05:03
+Asignar_productos Se selecciono un archivo 11-11-23 19:05:09
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 11-11-23 19:05:09
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 11-11-23 19:05:09
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 19:05:09
+Asignar_productos Se habilita el boton confirmar 11-11-23 19:05:09
+Asignar_productos Se abre buscador de carpeta 11-11-23 19:05:11
+Asignar_productos Se sleecciono una carpeta 11-11-23 19:05:14
+Controlador.Manejador_asignar Se obtiene el directorio de la carpeta 11-11-23 19:05:14
+Controlador.Manejador_asignar Se asigna sus directorios 11-11-23 19:05:14
+Asignar_productos Se asigno el directorio de su archivo txt de cada producto 11-11-23 19:05:14
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 19:05:14
+Asignar_productos Se habilita el boton confirmar 11-11-23 19:05:14
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:05:15
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:05:15
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:05:15
+Asignar_productos Se obtiene los nombres y direcciones de almacenamiento de los productos 11-11-23 19:05:15
+Controlador.Manejador_asignar Se Asigna el nuevo historial que se utilizara 11-11-23 19:05:15
+Votaciones Se obtienen los nuevos productos 11-11-23 19:05:29
+Asignar_productos Se devuelve el listado de productos nuevo 11-11-23 19:05:29
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 11-11-23 19:05:29
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:05:29
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:05:29
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:05:29
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:05:29
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:05:29
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:05:29
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:05:29
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:05:30
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:05:30
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:05:30
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:05:30
+Barras Se inicio con productos a modelar 11-11-23 19:05:30
+Pastel Se inicio con productos a modelar 11-11-23 19:05:30
+Votaciones inicio sin productos 11-11-23 19:06:16
+Votaciones Se creo y se puso visible la ventana de asignacion 11-11-23 19:06:26
+Asignar_productos Inicio con una lista que referenciar - correcto 11-11-23 19:06:26
+Votaciones Se habilito el boton refrescar 11-11-23 19:06:27
+Asignar_productos Se abre buscador de archivo 11-11-23 19:06:28
+Asignar_productos Se selecciono un archivo 11-11-23 19:06:34
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 11-11-23 19:06:34
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 11-11-23 19:06:34
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 19:06:34
+Asignar_productos Se habilita el boton confirmar 11-11-23 19:06:34
+Asignar_productos Se abre buscador de carpeta 11-11-23 19:06:35
+Asignar_productos Se sleecciono una carpeta 11-11-23 19:06:54
+Controlador.Manejador_asignar Se obtiene el directorio de la carpeta 11-11-23 19:06:54
+Controlador.Manejador_asignar Se asigna sus directorios 11-11-23 19:06:54
+Asignar_productos Se asigno el directorio de su archivo txt de cada producto 11-11-23 19:06:54
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 19:06:54
+Asignar_productos Se habilita el boton confirmar 11-11-23 19:06:54
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:06:55
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:06:55
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:06:55
+Asignar_productos Se obtiene los nombres y direcciones de almacenamiento de los productos 11-11-23 19:06:55
+Controlador.Manejador_asignar Se Asigna el nuevo historial que se utilizara 11-11-23 19:06:55
+Votaciones inicio sin productos 11-11-23 19:07:54
+Votaciones Se creo y se puso visible la ventana de asignacion 11-11-23 19:08:06
+Asignar_productos Inicio con una lista que referenciar - correcto 11-11-23 19:08:06
+Votaciones Se habilito el boton refrescar 11-11-23 19:08:06
+Asignar_productos Se abre buscador de archivo 11-11-23 19:08:07
+Asignar_productos Se selecciono un archivo 11-11-23 19:08:40
+Controlador.Manejador_asignar Se asigna los nombres de los objetos 11-11-23 19:08:40
+Asignar_productos Se asigno nombre a la lista de los productos correctamente 11-11-23 19:08:40
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 19:08:40
+Asignar_productos Se habilita el boton confirmar 11-11-23 19:08:40
+Asignar_productos Se abre buscador de carpeta 11-11-23 19:08:45
+Asignar_productos Se sleecciono una carpeta 11-11-23 19:09:13
+Controlador.Manejador_asignar Se obtiene el directorio de la carpeta 11-11-23 19:09:13
+Controlador.Manejador_asignar Se asigna sus directorios 11-11-23 19:09:13
+Asignar_productos Se asigno el directorio de su archivo txt de cada producto 11-11-23 19:09:13
+Asignar_productos Se comprueba si se puede habilitar el boton confirmar 11-11-23 19:09:13
+Asignar_productos Se habilita el boton confirmar 11-11-23 19:09:13
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:09:15
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:09:15
+Controlador.Manejador_productos crea un nuevo producto 11-11-23 19:09:15
+Asignar_productos Se obtiene los nombres y direcciones de almacenamiento de los productos 11-11-23 19:09:15
+Controlador.Manejador_asignar Se Asigna el nuevo historial que se utilizara 11-11-23 19:09:15
+Votaciones Se obtienen los nuevos productos 11-11-23 19:09:17
+Asignar_productos Se devuelve el listado de productos nuevo 11-11-23 19:09:17
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 11-11-23 19:09:17
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:09:17
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:17
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:17
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:17
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:17
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:17
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:17
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:19
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:09:19
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:19
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:19
+Barras Se inicio con productos a modelar 11-11-23 19:09:19
+Pastel Se inicio con productos a modelar 11-11-23 19:09:19
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:20
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:09:20
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:20
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:20
+Barras Se inicio con productos a modelar 11-11-23 19:09:20
+Pastel Se inicio con productos a modelar 11-11-23 19:09:20
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:21
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:09:21
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:21
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:21
+Barras Se inicio con productos a modelar 11-11-23 19:09:21
+Pastel Se inicio con productos a modelar 11-11-23 19:09:21
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:23
+Votaciones Se preciono voto a producto Horchata 11-11-23 19:09:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:23
+Barras Se inicio con productos a modelar 11-11-23 19:09:23
+Pastel Se inicio con productos a modelar 11-11-23 19:09:23
+Votaciones Ambas graficas se pusieron visibles 11-11-23 19:09:25
+Pastel Se grafican los datos 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:25
+Barras Se grafican los datos 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:25
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:25
+Pastel Se actualizo 11-11-23 19:09:27
+Pastel Se grafican los datos 11-11-23 19:09:27
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:27
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:27
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:27
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:27
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:27
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:27
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:09:27
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:09:27
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:09:27
+Pastel Se suspende y deja de ser visible 11-11-23 19:09:28
+Barras Se suspende y deja de ser visible 11-11-23 19:09:30
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:39
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:39
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:39
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:39
+Barras Se inicio con productos a modelar 11-11-23 19:11:39
+Pastel Se inicio con productos a modelar 11-11-23 19:11:39
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Barras Se inicio con productos a modelar 11-11-23 19:11:40
+Pastel Se inicio con productos a modelar 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Barras Se inicio con productos a modelar 11-11-23 19:11:40
+Pastel Se inicio con productos a modelar 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Barras Se inicio con productos a modelar 11-11-23 19:11:40
+Pastel Se inicio con productos a modelar 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Barras Se inicio con productos a modelar 11-11-23 19:11:40
+Pastel Se inicio con productos a modelar 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Barras Se inicio con productos a modelar 11-11-23 19:11:40
+Pastel Se inicio con productos a modelar 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Barras Se inicio con productos a modelar 11-11-23 19:11:40
+Pastel Se inicio con productos a modelar 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Barras Se inicio con productos a modelar 11-11-23 19:11:40
+Pastel Se inicio con productos a modelar 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:40
+Barras Se inicio con productos a modelar 11-11-23 19:11:40
+Pastel Se inicio con productos a modelar 11-11-23 19:11:40
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Barras Se inicio con productos a modelar 11-11-23 19:11:41
+Pastel Se inicio con productos a modelar 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Barras Se inicio con productos a modelar 11-11-23 19:11:41
+Pastel Se inicio con productos a modelar 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Barras Se inicio con productos a modelar 11-11-23 19:11:41
+Pastel Se inicio con productos a modelar 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:41
+Barras Se inicio con productos a modelar 11-11-23 19:11:41
+Pastel Se inicio con productos a modelar 11-11-23 19:11:41
+Votaciones Ambas graficas se pusieron visibles 11-11-23 19:11:42
+Barras Se grafican los datos 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:11:42
+Pastel Se grafican los datos 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:42
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:11:42
+Pastel Se suspende y deja de ser visible 11-11-23 19:11:46
+Barras Se suspende y deja de ser visible 11-11-23 19:11:47
+Votaciones Se obtienen los nuevos productos 11-11-23 19:11:48
+Asignar_productos Se devuelve el listado de productos nuevo 11-11-23 19:11:48
+Votaciones Se hailitan los demas botones y se muestran los datos obtenidos de los productos otorgados 11-11-23 19:11:48
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:11:48
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:11:48
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:48
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:11:48
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:11:48
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:11:48
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:11:48
+Controlador.Manejador_productos Se intenta acceder al historial 11-11-23 19:19:18
+Controlador.Manejador_productos Se accede al archivo y se crean los productos 11-11-23 19:19:18
+Controlador.Manejador_productos Se les dio su nombre a cada producto 11-11-23 19:19:18
+Votaciones inicio con productos 11-11-23 19:19:18
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:19:19
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:19
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:19
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:19
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:19
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:19
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:19
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:23
+Votaciones Se preciono voto a producto Horchata 11-11-23 19:19:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:23
+Barras Se inicio con productos a modelar 11-11-23 19:19:23
+Pastel Se inicio con productos a modelar 11-11-23 19:19:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:23
+Votaciones Se preciono voto a producto Horchata 11-11-23 19:19:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:23
+Barras Se inicio con productos a modelar 11-11-23 19:19:23
+Pastel Se inicio con productos a modelar 11-11-23 19:19:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:23
+Votaciones Se preciono voto a producto Horchata 11-11-23 19:19:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:23
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:23
+Barras Se inicio con productos a modelar 11-11-23 19:19:23
+Pastel Se inicio con productos a modelar 11-11-23 19:19:23
+Votaciones Ambas graficas se pusieron visibles 11-11-23 19:19:24
+Barras Se grafican los datos 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:24
+Pastel Se grafican los datos 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:24
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:24
+Pastel Se actualizo 11-11-23 19:19:26
+Pastel Se grafican los datos 11-11-23 19:19:26
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:26
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:26
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:26
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:26
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:26
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:26
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:26
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:26
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:26
+Pastel Se suspende y deja de ser visible 11-11-23 19:19:27
+Barras Se suspende y deja de ser visible 11-11-23 19:19:29
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Barras Se inicio con productos a modelar 11-11-23 19:19:31
+Pastel Se inicio con productos a modelar 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Barras Se inicio con productos a modelar 11-11-23 19:19:31
+Pastel Se inicio con productos a modelar 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Barras Se inicio con productos a modelar 11-11-23 19:19:31
+Pastel Se inicio con productos a modelar 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Barras Se inicio con productos a modelar 11-11-23 19:19:31
+Pastel Se inicio con productos a modelar 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:31
+Barras Se inicio con productos a modelar 11-11-23 19:19:31
+Pastel Se inicio con productos a modelar 11-11-23 19:19:31
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Barras Se inicio con productos a modelar 11-11-23 19:19:32
+Pastel Se inicio con productos a modelar 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Barras Se inicio con productos a modelar 11-11-23 19:19:32
+Pastel Se inicio con productos a modelar 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Barras Se inicio con productos a modelar 11-11-23 19:19:32
+Pastel Se inicio con productos a modelar 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Barras Se inicio con productos a modelar 11-11-23 19:19:32
+Pastel Se inicio con productos a modelar 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Barras Se inicio con productos a modelar 11-11-23 19:19:32
+Pastel Se inicio con productos a modelar 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:32
+Barras Se inicio con productos a modelar 11-11-23 19:19:32
+Pastel Se inicio con productos a modelar 11-11-23 19:19:32
+Votaciones Ambas graficas se pusieron visibles 11-11-23 19:19:33
+Pastel Se grafican los datos 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:33
+Barras Se grafican los datos 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:19:33
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:19:33
+Pastel Se suspende y deja de ser visible 11-11-23 19:19:36
+Barras Se suspende y deja de ser visible 11-11-23 19:19:39
+Controlador.Manejador_productos Se intenta acceder al historial 11-11-23 19:42:45
+Controlador.Manejador_productos Se accede al archivo y se crean los productos 11-11-23 19:42:45
+Controlador.Manejador_productos Se les dio su nombre a cada producto 11-11-23 19:42:45
+Votaciones inicio con productos 11-11-23 19:42:45
+Votaciones Modelado de nombres y cantidad de votos 11-11-23 19:42:46
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:46
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:46
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:46
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:46
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:46
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:46
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:47
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:42:47
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:47
+Barras Se inicio con productos a modelar 11-11-23 19:42:47
+Pastel Se inicio con productos a modelar 11-11-23 19:42:47
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:47
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:47
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:42:47
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:47
+Barras Se inicio con productos a modelar 11-11-23 19:42:47
+Pastel Se inicio con productos a modelar 11-11-23 19:42:47
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:47
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:47
+Votaciones Se preciono voto a producto Jamaica 11-11-23 19:42:47
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:47
+Barras Se inicio con productos a modelar 11-11-23 19:42:47
+Pastel Se inicio con productos a modelar 11-11-23 19:42:47
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:47
+Votaciones Ambas graficas se pusieron visibles 11-11-23 19:42:48
+Pastel Se grafican los datos 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:48
+Barras Se grafican los datos 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:48
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:48
+Pastel Se actualizo 11-11-23 19:42:49
+Pastel Se grafican los datos 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:49
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:53
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:42:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:53
+Barras Se inicio con productos a modelar 11-11-23 19:42:53
+Pastel Se inicio con productos a modelar 11-11-23 19:42:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:53
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:42:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:53
+Barras Se inicio con productos a modelar 11-11-23 19:42:53
+Pastel Se inicio con productos a modelar 11-11-23 19:42:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:53
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:42:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:53
+Barras Se inicio con productos a modelar 11-11-23 19:42:53
+Pastel Se inicio con productos a modelar 11-11-23 19:42:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:53
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Barras Se inicio con productos a modelar 11-11-23 19:42:54
+Pastel Se inicio con productos a modelar 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Barras Se inicio con productos a modelar 11-11-23 19:42:54
+Pastel Se inicio con productos a modelar 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Barras Se inicio con productos a modelar 11-11-23 19:42:54
+Pastel Se inicio con productos a modelar 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Barras Se inicio con productos a modelar 11-11-23 19:42:54
+Pastel Se inicio con productos a modelar 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Votaciones Se preciono voto a producto Limonada 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Barras Se inicio con productos a modelar 11-11-23 19:42:54
+Pastel Se inicio con productos a modelar 11-11-23 19:42:54
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:54
+Pastel Se actualizo 11-11-23 19:42:55
+Pastel Se grafican los datos 11-11-23 19:42:55
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:55
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:55
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:55
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:55
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:55
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:55
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:55
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:55
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:55
+Barras Se actualizo 11-11-23 19:42:58
+Barras Se grafican los datos 11-11-23 19:42:58
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:58
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:58
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:58
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:58
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:58
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:58
+Controlador.Manejador_productos Se accede al producto_1 11-11-23 19:42:58
+Controlador.Manejador_productos Se accede al producto_2 11-11-23 19:42:58
+Controlador.Manejador_productos Se accede al producto_3 11-11-23 19:42:58
+Barras Se suspende y deja de ser visible 11-11-23 19:42:59
+Pastel Se suspende y deja de ser visible 11-11-23 19:43:00
